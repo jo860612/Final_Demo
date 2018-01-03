@@ -1,3 +1,3 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
-AppRegistry.registerComponent('Restaurant', () => App);
+import item from './Checkout';
+AppRegistry.registerComponent('Restaurant', () =>item);
